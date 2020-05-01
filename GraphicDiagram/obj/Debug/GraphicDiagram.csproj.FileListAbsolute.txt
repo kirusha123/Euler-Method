@@ -1,0 +1,9 @@
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\bin\Debug\GraphicDiagram.exe.config
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\bin\Debug\GraphicDiagram.exe
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\bin\Debug\GraphicDiagram.pdb
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.csprojAssemblyReference.cache
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.Form1.resources
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.Properties.Resources.resources
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.csproj.GenerateResource.cache
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.exe
+C:\Users\kirri\source\repos\GraphicDiagram\GraphicDiagram\obj\Debug\GraphicDiagram.pdb
